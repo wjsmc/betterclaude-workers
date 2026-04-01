@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "betterclaude",
+	"name": "ccproxy",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-12-13",
 	"routes": [
