@@ -10,7 +10,7 @@
 	"routes": [
 		{
 			"pattern": "ccproxy.nodemessage.com/*",
-			"zone_name": "ccproxy.nodemessage.com"
+			"zone_name": "nodemessage.com"
 		}
 	],
 	"placement": {
